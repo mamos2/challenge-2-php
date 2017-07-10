@@ -1,2 +1,2 @@
 # challenge-2-php
-exercice 1 et 3
+j'ai fais l'exercice 1 et l'exerci 3 avec un do while... 
